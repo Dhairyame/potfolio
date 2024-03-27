@@ -51,8 +51,8 @@ window.onscroll = () => {
 // ======================================== SCROLL REVEAL ====================================
 ScrollReveal({
     distance: '80px',
-    duration: 7000,
-    delay: 200,
+    duration: 3000,
+    delay: 100,
  });
 
 ScrollReveal().reveal('.home-content, heading', { origin: 'top' });
